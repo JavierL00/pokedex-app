@@ -2,6 +2,8 @@
 
 Aplicación fullstack que consume la API pública de Pokémon (`https://pokeapi.co`) desde un backend en Go, expone los datos mediante un endpoint, y los presenta en un frontend hecho en React con Vite. La aplicación incluye búsqueda, paginación y mecanismos de caché tanto en el cliente como en el servidor.
 
+[Visitar Web Desplegada](https://frontend-production-461d.up.railway.app/)
+
 ---
 
 ## ⚙️ Tecnologías utilizadas
@@ -32,8 +34,8 @@ Aplicación fullstack que consume la API pública de Pokémon (`https://pokeapi.
 ### 🧪 Clonar y ejecutar
 
 ```bash
-git clone https://github.com/JavierL00/poke-api-go.git
-cd poke-api-go
+git clone https://github.com/JavierL00/pokedex-app.git
+cd pokedex-app
 
 # FRONTEND
 cd frontend
